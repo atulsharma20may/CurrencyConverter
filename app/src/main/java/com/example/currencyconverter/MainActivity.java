@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         int dollar = Integer.parseInt(dollarAmount.getText().toString());
         int inr = dollar*77;
 
-        inrAmount.setText(inr);
+        inrAmount.setText(inr + "");
     }
 
     public void reset(View view) {
