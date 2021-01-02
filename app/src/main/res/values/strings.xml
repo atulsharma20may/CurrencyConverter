@@ -4,4 +4,6 @@
     <string name="reset">Reset</string>
     <string name="enter_amount_in_dollars">Enter Amount in Dollars</string>
     <string name="currency_converter">Currency Converter</string>
+    <string name="inr_amount_will_here">INR Amount will here</string>
+    <string name="inr_amount_will_appear_here">INR Amount will appear here</string>
 </resources>
