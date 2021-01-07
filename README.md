@@ -10,4 +10,4 @@ Here are some previews for the app...
 
 
 
-<img title="" src="file:///C:/Users/Atul%20Sharma/Downloads/CDN%20for%20GitHub/Screenshot_20210102-201216_Currency%20Converter.jpg" alt="" width="231"> <img title="" src="file:///C:/Users/Atul%20Sharma/Downloads/CDN%20for%20GitHub/Screenshot_20210102-201230_Currency%20Converter.jpg" alt="" width="231">
+<img title="" src="https://raw.githubusercontent.com/atulsharma20may/atulsharma20may/master/CDN/AndroidApplicationsPreviews/CurrencyConverter/1.jpg" alt="" width="231">     <img title="" src="https://raw.githubusercontent.com/atulsharma20may/atulsharma20may/master/CDN/AndroidApplicationsPreviews/CurrencyConverter/2.jpg" alt="" width="231">
